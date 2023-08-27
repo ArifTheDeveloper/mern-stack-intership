@@ -1,0 +1,12 @@
+.profile_div{
+    max-width: 56px;
+    height : 56px;
+    border-radius: 50%;
+    border: 1px solid #111;
+    overflow: hidden;
+    margin :15px auto;
+}
+.profile_div img{
+    width : 100%;
+    height : 100%;
+}

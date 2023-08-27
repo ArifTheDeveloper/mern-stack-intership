@@ -1,0 +1,22 @@
+.card-profile-stats{
+    min-width: 86px;
+   
+}
+.card-profile-stats img{
+    width : 86px;
+    height : 86px;
+    border-radius: 50%;
+    border: 1px solid #111;
+    object-fit: cover;
+}
+
+.email{
+    color : rgb(238,101,122);
+}
+.location{
+    color : blue;
+}
+.calendar{
+     color :rgb(192, 89, 192)
+    }
+

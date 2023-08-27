@@ -1,0 +1,11 @@
+.profile_div{
+    max-width: 60px;
+    height : 60px;
+    border-radius: 50%;
+    border: 1px solid #111;
+    overflow: hidden;
+    margin :15px auto;
+}
+.profile_div img{
+    object-fit: cover;
+}
